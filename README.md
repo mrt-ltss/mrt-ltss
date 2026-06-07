@@ -4,8 +4,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://chatgpt.com/b"  />
+<div align="center"
 </div>
 
 ###
